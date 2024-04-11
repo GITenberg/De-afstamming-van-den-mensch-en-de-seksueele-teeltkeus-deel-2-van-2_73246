@@ -1,0 +1,48 @@
+_repo: De-afstamming-van-den-mensch-en-de-seksueele-teeltkeus-deel-2-van-2_73246
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hartogh Heys van Zouteveen, H. (Hermanus)
+    aliases:
+    - Zouteveen, Hermanus Hartogh Heys van
+    - Zouteveen, H. Hartogh Heijs van
+    - Van Zouteveen, Hermanus Hartogh Heys
+    - Zouteveen, Hermanus Hartogh Heijs van
+    birthdate: 1841
+    deathdate: 1891
+    gutenberg_agent_id: '55057'
+    url: http://www.gutenberg.org/2009/agents/55057
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73246'
+language: nl
+pgterms:marc905: 20191207152010darwin
+pgterms:marc906: '1890'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aArnhem-Nijmegen :$bE. & M. Cohen, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution (Biology)'
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Sexual selection in animals'
+- !lcsh 'Sexual dimorphism (Animals)'
+- !lcsh 'Sex differences'
+- !lcc 'QH'
+- GITenberg
+title: De afstamming van den mensch en de seksueele teeltkeus, deel 2 (van 2)
+url: http://www.gutenberg.org/ebooks/73246
