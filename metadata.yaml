@@ -12,6 +12,9 @@ contributor:
     deathdate: 1891
     gutenberg_agent_id: '55057'
     url: http://www.gutenberg.org/2009/agents/55057
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73246#De-afstamming-van-den-mensch-en-de-seksueele-teeltkeus-deel-2-van-2
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
